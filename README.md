@@ -1,4 +1,4 @@
-# Tableau
+# Tableau-Project
 Description: Developed an interactive Tableau dashboard using the Sample Superstore
 dataset
 • Analyzed key metrics such as sales, profit, and total orders across categories,
